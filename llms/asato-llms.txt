@@ -1,0 +1,41 @@
+# Asato
+> Asato is an agentic AI platform that helps enterprise IT leaders — CIOs in
+> healthcare, financial services, and public sector — discover, curate, and
+> optimize their complete IT asset landscape: SaaS licenses, hardware, and
+> compliance. AI agents continuously reconcile fragmented data from tools like
+> CASB, IDP, and ERP into a single trusted, decision-grade inventory, then
+> autonomously execute optimization actions (reclaiming unused licenses,
+> flagging aging hardware, closing compliance gaps) with human-in-the-loop
+> control. Backed by Intel Capital. Channel partner: CDW Corporation.
+
+## Key Pages
+
+- [Product Overview](https://www.asato.ai/product): Platform capabilities, the Link → Think → Execute framework, and why Asato differs from traditional ITAM tools.
+- [Security](https://www.asato.ai/security): Asato's security posture, compliance certifications (SOC 2, ISO 27001), and trust center.
+- [Healthcare Solution](https://www.asato.ai/solutions/healthcare): IT asset optimization for healthcare facilities.
+- [Financial Services Solution](https://www.asato.ai/solutions/financial-services): Lean, compliant infrastructure for financial services firms.
+- [Public Sector Solution](https://www.asato.ai/solutions/public-sector-organizations): Resilient IT infrastructure for government and public sector organizations.
+
+## Blogs
+
+- [Your IT Data Isn't Dirty, It's Multi-Truth](https://www.asato.ai/blog/your-it-data-isnt-dirty-its-multi-truth): Part 1 of the "Closing the IT Data Trust Gap" series. Explains why enterprise IT numbers contradict each other — each source system is locally correct but there's no unified entity model. Defines the four trust killers: identity inflation, application inflation, noisy Shadow IT, and fragmented spend.
+- [Why Your User Count Is 3X Your Headcount](https://www.asato.ai/blog/why-your-user-count-is-3x-your-headcount-and-why-thats-not-a-bug): Part 2. How identity providers inflate user counts with service accounts, guests, and disabled accounts — and how Asato's identity funnel fixes this for accurate licensing and vendor negotiations.
+- [You Don't Have 6,000 Apps. You Have 60](https://www.asato.ai/blog/you-dont-have-6-000-apps-you-have-60): Part 3. How CASB tools inflate app inventories with CDNs and infrastructure noise, and how Asato's application funnel surfaces only the tools employees actually use.
+- [What "Decision-Grade" Data Actually Looks Like](https://www.asato.ai/blog/what-decision-grade-data-actually-looks-like): Part 6 (series conclusion). Defines the five properties of decision-grade data — normalized, classified, linked, scoped, scored — and the measurable outcomes they unlock.
+- [Business Observability – A New Frontier in Enterprise Asset Visibility](https://www.asato.ai/blog/business-observability-a-new-frontier-in-enterprise-asset-visibility): Founders introduce "Business Observability" — a metadata-driven intelligence layer that turns CIO questions into contextual, actionable answers via agents and an Asset Knowledge Graph.
+- [How We're Building Business Observability at Asato](https://www.asato.ai/blog/how-were-building-business-observability-at-asato): CTO Vinay Saxena on the AI-native technical architecture: Kubernetes-native, LangGraph + MCP/A2A agent orchestration, semantic ingestion, and the Asset Knowledge Graph.
+
+## Newsroom
+
+- [Asato and CDW Announce Strategic Partnership](https://www.asato.ai/newsroom/asato-and-cdw-announce-strategic-partnership-to-deliver-ai-powered-business-observability-platform): July 2025. CDW integrates Asato into its solutions portfolio for enterprise, mid-market, and SMB customers. Built on 12 months of pilot deployments.
+- [Asato Raises $7.5M Seed Round](https://www.asato.ai/newsroom/asato-raises-7-5m-in-seed-funding-to-bring-an-enterprise-cio-copilot-to-market): December 2023. Co-led by Intel Capital and Lip-Bu Tan, with participation from Shah Capital Partners and angels including the CEOs of Pure Storage and Micron Technologies.
+- [Board Addition: Lip-Bu Tan and Kumar Sreekanti](https://www.asato.ai/newsroom/asato-ai-bolsters-its-board-of-directors-with-the-addition-of-industry-veterans-lip-bu-tan-and-kumar-sreekanti): May 2024. Lip-Bu Tan (Walden International, Intel board) and Kumar Sreekanti (former HPE CTO) join Asato's board.
+
+## Contact
+
+- Website: https://www.asato.ai
+- Talk to Sales: https://www.asato.ai/talk-to-sales
+
+## Last Updated
+
+2026-04

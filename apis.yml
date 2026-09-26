@@ -1,23 +1,96 @@
 aid: asato
+
 name: Asato
-description: 'Asato is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/661f8627cdc522269a1a1906/67fd24f670f933e821190df8_Screenshot%202025-04-14%20at%208.38.32%E2%80%AFPM.avif
+
+description: Asato is an AI‑powered IT asset optimization platform founded in 2023. It helps enterprises discover, reconcile, and optimize their
+  entire IT asset landscape using autonomous AI agents that continuously aggregate data from SaaS, cloud, hardware, and contracts, turning fragmented
+  records into decision‑grade insights for CIOs. The platform aims to reduce waste, improve spend visibility, and enable strategic resource allocation
+  across software, cloud, and AI services.
+
 url: https://raw.githubusercontent.com/api-evangelist/asato/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- AI
+- IT Asset Management
+- SaaS
+- Cloud
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Compliance
+  url: https://trust.asato.ai/
+- type: Conformance
+  url: conformance/asato-conformance.yml
+- type: LLMsTxt
+  url: llms/asato-llms.txt
+- type: WellKnown
+  url: well-known/asato-well-known.yml
+- type: Hosts
+  url: hosts/asato-hosts.yml
+- type: Vendors
+  url: vendors/asato-vendors.yml
+- type: Newsroom
+  url: https://www.asato.ai/newsroom
+- type: TrustCenter
+  url: security/asato-trust-center.yml
+- type: DomainSecurity
+  url: security/asato-domain-security.yml
 - type: Website
-  url: https://www.nasdaqprivatemarket.com/
+  url: https://www.asato.ai
+- type: Documentation
+  url: https://www.asato.ai/about-us
+- type: Blog
+  url: https://www.asato.ai/blog
+- type: Support
+  url: https://www.asato.ai/talk-to-sales
+- type: StatusPage
+  url: https://status.asato.ai/status/url
+- type: PrivacyPolicy
+  url: https://www.asato.ai/privacy-policy
+- type: TermsOfService
+  url: https://www.asato.ai/terms-of-use
+- type: Security
+  url: https://www.asato.ai/security
+
+apis:
+- name: Asato API
+  description: API documentation not publicly machine‑readable; no OpenAPI/AsyncAPI/GraphQL spec found.
+  humanURL: https://www.asato.ai/about-us
+  baseURL: null
+  aid: asato:asato-api
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: No OpenAPI, AsyncAPI, or GraphQL spec could be retrieved from known API hosts.
+  evidence:
+  - url: https://api.asato.ai/openapi.json
+    status: failed
+  checked: 2026-09-26
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
