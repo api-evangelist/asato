@@ -44,6 +44,10 @@ maintainers:
   email: info@apis.io
 
 common:
+- type: Pricing
+  url: https://www.asato.ai
+- type: Plans
+  url: plans/asato-plans-pricing.yml
 - type: Compliance
   url: https://trust.asato.ai/
 - type: Conformance
