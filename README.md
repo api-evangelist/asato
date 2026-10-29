@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Asato is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+Asato is an AI‑powered IT asset optimization platform founded in 2023. It helps enterprises discover, reconcile, and optimize their entire IT asset landscape using autonomous AI agents that continuously aggregate data from SaaS, cloud, hardware, and contracts, turning fragmented records into decision‑grade insights for CIOs. The platform aims to reduce waste, improve spend visibility, and enable strategic resource allocation across software, cloud, and AI services.
+
+**Areas:** Company · Artificial Intelligence · IT Asset Management · Software-as-a-Service · Cloud
+
+## Asato on APIs.io
+
+Everything profiled for Asato is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/asato/](https://apis.io/providers/asato/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Asato API](https://apis.io/apis/asato/asato-api/) — API documentation not publicly machine‑readable; no OpenAPI/AsyncAPI/GraphQL spec found.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Asato Domain Security](https://apis.io/security/asato/asato-domain-security/)
+- [Asato Trust Center](https://apis.io/security/asato/asato-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Asato Plans Pricing](https://apis.io/plans/asato/asato-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.asato.ai)
+- [Documentation](https://www.asato.ai/about-us)
+- [Pricing](https://www.asato.ai)
+- [Support](https://www.asato.ai/talk-to-sales)
+- [Blog](https://www.asato.ai/blog)
+- [Security](https://www.asato.ai/security)
+- [Compliance](https://trust.asato.ai/)
+- [Terms of service](https://www.asato.ai/terms-of-use)
+- [Privacy policy](https://www.asato.ai/privacy-policy)
+- [Status](https://status.asato.ai/status/url)
+
+## API Evangelist rating
+
+**Kin Score 26.0** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 47.4 |
+
+**Agent readiness 3.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/asato/](https://apis.io/providers/asato/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Asato: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/asato/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
